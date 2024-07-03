@@ -40,7 +40,7 @@ npm run devStart
 -> avoiding again again api calling when creating new task or updating or deleting existing task;
 
 # Future Improvement
--> Each User session seperation (ability to login and signup ) using JWT token;
+-> Each User session seperation (ability to login and signup ) using JWT token; <br/>
 -> Collaboration between users;
 -> Task Card move from one place to another (ability to move card anywhere in the screen);
 -> Move from free server to aws in amplify and ec2 instance to increase api response time;
