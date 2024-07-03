@@ -39,7 +39,7 @@ npm run devStart
 # Challenges Faced
 -> avoiding again again api calling when creating new task or updating or deleting existing task;
 
-#Future Improvement
+# Future Improvement
 -> Each User session seperation (ability to login and signup ) using JWT token;
 -> Collaboration between users;
 -> Task Card move from one place to another (ability to move card anywhere in the screen);
