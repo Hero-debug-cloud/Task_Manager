@@ -48,5 +48,3 @@ npm run devStart
 -> Task Card move from one place to another (ability to move card anywhere in the screen); <br/>
 -> Move from free server to aws in amplify and ec2 instance to increase api response time; <br/>
 -> UI Improvement as right now its very basic;
-
-this is me
