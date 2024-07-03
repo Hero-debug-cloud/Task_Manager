@@ -28,7 +28,7 @@ cd server
 npm run devStart
 ```
 
-#design choices
+# Design choices
 -> Kept as simple as it can be in the frontend;
 
 - easy to read all tasks
@@ -36,7 +36,7 @@ npm run devStart
 - easy to update existing task
 - easy to delete existing task
 
-#Challenges Faced
+# Challenges Faced
 -> avoiding again again api calling when creating new task or updating or deleting existing task;
 
 #Future Improvement
