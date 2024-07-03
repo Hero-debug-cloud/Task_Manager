@@ -41,7 +41,7 @@ npm run devStart
 
 # Future Improvement
 -> Each User session seperation (ability to login and signup ) using JWT token; <br/>
--> Collaboration between users;
--> Task Card move from one place to another (ability to move card anywhere in the screen);
--> Move from free server to aws in amplify and ec2 instance to increase api response time;
+-> Collaboration between users; <br/>
+-> Task Card move from one place to another (ability to move card anywhere in the screen); <br/>
+-> Move from free server to aws in amplify and ec2 instance to increase api response time; <br/>
 -> UI Improvement as right now its very basic;
