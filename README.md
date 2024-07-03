@@ -3,7 +3,7 @@
 [Task Management](https://task-manager-git-main-herodebugclouds-projects.vercel.app/)
 
 # Tech Stack Used
--> Frontend : NextJs
+-> Frontend : NextJs </br>
 -> Backend : NodeJs ExpressJs MongoDB
 
 # Get Started
