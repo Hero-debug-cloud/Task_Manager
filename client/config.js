@@ -1,2 +1,2 @@
-const endPoint = "http://localhost:4000";
+const endPoint = "https://task-manager-gkcj.onrender.com";
 export default endPoint;
