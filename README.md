@@ -37,7 +37,7 @@ npm run devStart
 - easy to delete existing task
 
 # Challenges Faced
--> avoiding again again api calling when creating new task or updating or deleting existing task;
+-> Avoiding again again api calling when creating new task or updating or deleting existing task;
 
 # Future Improvement
 -> Each User session seperation (ability to login and signup ) using JWT token; <br/>
