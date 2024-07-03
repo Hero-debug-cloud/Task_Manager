@@ -1,6 +1,11 @@
 # Deployed Link
 
 [Task Management](https://task-manager-git-main-herodebugclouds-projects.vercel.app/)
+
+# Tech Stack Used
+-> Frontend : NextJs
+-> Backend : NodeJs ExpressJs MongoDB
+
 # Get Started
 
 To run No Code locally, just run the following commands to install the dependencies and run the app locally. <br/><br/>
